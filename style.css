@@ -1,0 +1,66 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    
+}
+.name-color{
+    color: coral;
+    text-shadow: black 1px 1px 0px;
+}
+.p-color{
+    color: dimgray;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgb(253, 128, 116), rgb(255, 97, 70));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+    text-shadow: #000000 1px 1px 0px;
+}
+
+.one-pic{
+    width: 130%;
+    padding-top: 5%;
+    margin-left: -20px;
+}
+.row{
+
+    width: 40%;
+    float: left;
+    
+    
+}
+.pot{
+    margin-left: 3%;
+    padding-left: 3%;
+    padding-top: 4%;
+}
+.two-pic{
+    width: 100%;
+    margin-left: -57px;
+    margin-top: -20px;
+}
+
+.toppot{
+    margin-left: 10%;
+    padding-left: 3%;
+    padding-top: 4%;
+}
+
+.download{
+
+    width: 3%;
+    -webkit-filter: drop-shadow( #000000 1px 1px 0px);
+}
+.bg{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgb(253, 128, 116), rgb(255, 97, 70));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+    text-shadow: #000000 1px 1px 0px;
+    
+}     
+    
