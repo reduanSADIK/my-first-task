@@ -3,6 +3,9 @@ body{
     background-image: url("my images/gray.jpg");
     background-size: cover;
     margin: 0%;
+
+     zoom: 1.50; /* all browsers */
+    -moz-transform: scale(1.50); /* Firefox */
     
     
 }
